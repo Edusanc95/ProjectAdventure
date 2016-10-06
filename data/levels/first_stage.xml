@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<data>
+
+<graph>
+  <vertex index="1" type="">
+    <x>-4.737420</x> <y>0.192144</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="2" type="">
+    <x>1.000000</x> <y>0.192144</y> <z>0.107438</z>
+  </vertex>
+  <vertex index="3" type ="player">
+    <x>-4.737420</x> <y>7.299999</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="4" type="">
+    <x>-4.737420</x> <y>-4.908710</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="5" type ="chestKey">
+    <x>-4.999999</x> <y>-10.000000</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="6" type="">
+    <x>4.576680</x> <y>0.192141</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="7" type ="doorKey">
+    <x>17.663540</x> <y>0.192139</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="8" type="">
+    <x>20.766989</x> <y>0.192139</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="9" type ="signHouse">
+    <x>20.766991</x> <y>5.833139</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="10" type="">
+    <x>20.766989</x> <y>-48.142136</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="11" type ="chestAS">
+    <x>13.595590</x> <y>-48.142136</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="12" type="">
+    <x>41.336494</x> <y>5.833139</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="13" type ="doorKey">
+    <x>41.336491</x> <y>55.185329</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="14" type="">
+    <x>35.709599</x> <y>55.185329</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="15" type ="trap">
+    <x>35.709599</x> <y>74.194206</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="16" type ="trap">
+    <x>-4.036901</x> <y>74.194206</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="17" type ="blueSlime">
+    <x>25.099779</x> <y>103.297997</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="18" type ="blueSlime">
+    <x>25.099779</x> <y>127.716133</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="19" type ="chestKey">
+    <x>11.382030</x> <y>116.043900</y> <z>0.107440</z>
+  </vertex>
+  <vertex index="20" type ="exit">
+    <x>3.552390</x> <y>59.906910</y> <z>0.107440</z>
+  </vertex>
+  <edge>
+    <vertex>1</vertex> <vertex>2</vertex>
+  </edge>
+  <edge>
+    <vertex>3</vertex> <vertex>1</vertex>
+  </edge>
+  <edge>
+    <vertex>1</vertex> <vertex>4</vertex>
+  </edge>
+  <edge>
+    <vertex>4</vertex> <vertex>5</vertex>
+  </edge>
+  <edge>
+    <vertex>2</vertex> <vertex>6</vertex>
+  </edge>
+  <edge>
+    <vertex>6</vertex> <vertex>7</vertex>
+  </edge>
+  <edge>
+    <vertex>7</vertex> <vertex>8</vertex>
+  </edge>
+  <edge>
+    <vertex>8</vertex> <vertex>9</vertex>
+  </edge>
+  <edge>
+    <vertex>8</vertex> <vertex>10</vertex>
+  </edge>
+  <edge>
+    <vertex>10</vertex> <vertex>11</vertex>
+  </edge>
+  <edge>
+    <vertex>9</vertex> <vertex>12</vertex>
+  </edge>
+  <edge>
+    <vertex>12</vertex> <vertex>13</vertex>
+  </edge>
+  <edge>
+    <vertex>13</vertex> <vertex>14</vertex>
+  </edge>
+  <edge>
+    <vertex>14</vertex> <vertex>15</vertex>
+  </edge>
+  <edge>
+    <vertex>15</vertex> <vertex>16</vertex>
+  </edge>
+  <edge>
+    <vertex>15</vertex> <vertex>17</vertex>
+  </edge>
+  <edge>
+    <vertex>17</vertex> <vertex>18</vertex>
+  </edge>
+  <edge>
+    <vertex>18</vertex> <vertex>19</vertex>
+  </edge>
+  <edge>
+    <vertex>16</vertex> <vertex>20</vertex>
+  </edge>
+</graph>
+
+</data>
